@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on **data analysis**
 
 - 📫 How to reach me **sandeep.1si18m102@gamil.com**
+- [Check out my awesome project!](https://github.com/theskb/Project)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
