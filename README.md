@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **pyhton automation**
 
-- 👯 I’m looking to collaborate on **data analysis**
+- 👯 I’m looking to collaborate on **software engineer**
 
 - 📫 How to reach me **sandeep.1si18m102@gamil.com**
 - [Check out my awesome project!](https://github.com/theskb/Project)
